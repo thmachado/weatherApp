@@ -15,7 +15,7 @@ Utilização de FetchAPI & demonstração do uso de hooks em React / TypeScript.
 Clone the project
 
 ```bash
-  git clone https://github.com/thmachado/Dashboard
+  git clone https://github.com/thmachado/weatherApp
 ```
 
 Go to the project directory
